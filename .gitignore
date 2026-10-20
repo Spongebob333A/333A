@@ -1,0 +1,16 @@
+# Android/Gradle generated files
+.gradle-home/
+**/.gradle/
+**/build/
+**/local.properties
+**/*.apk
+**/*.aab
+
+# IDE and OS files
+**/.idea/
+**/*.iml
+Thumbs.db
+
+# Generated helper content
+generated-skills/
+anfu-guardian-work/source-backup/
